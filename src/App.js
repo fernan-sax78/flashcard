@@ -58,7 +58,7 @@ function App() {
   return (
     <>
       <div className="form-group title">
-        <h2>Questions and Answers</h2>
+        <h2>Take your QUIZ and fun.</h2>
       </div>
       <form className="header" onSubmit={handleSubmit}>
         <div className="form-group">
