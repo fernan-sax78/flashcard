@@ -58,6 +58,8 @@ transform: rotateY(180deg);
 }
 .header{
   display: flex;
+  max-width: 60rem;
+  margin: 0 auto;
   justify-content: space-around;
   align-items: center;
   flex-wrap: wrap;
